@@ -7,9 +7,4 @@
  * template in the editor.
  */
 <<<<<<< HEAD
-ball
-=======
-working
-day2
-fish
->>>>>>> master
+testing
