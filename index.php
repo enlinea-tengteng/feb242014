@@ -7,4 +7,9 @@
  * template in the editor.
  */
 
+<<<<<<< HEAD
 test123
+=======
+test test1
+testtest2
+>>>>>>> master
