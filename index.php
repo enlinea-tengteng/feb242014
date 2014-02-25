@@ -7,7 +7,4 @@
  * template in the editor.
  */
 
-stupid tengteng
-
 stupid teng
-stupid tt
