@@ -6,6 +6,7 @@
  * and open the 
  * template in the editor.
  */
-<<<<<<< HEAD
+
 test
+
 test3
