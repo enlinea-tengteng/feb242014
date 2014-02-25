@@ -7,5 +7,9 @@
  * template in the editor.
  */
 
+<<<<<<< HEAD
 netbean
 server
+=======
+netbean()
+>>>>>>> development
