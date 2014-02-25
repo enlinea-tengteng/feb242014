@@ -7,4 +7,4 @@
  * template in the editor.
  */
 <<<<<<< HEAD
-testing
+test
