@@ -7,9 +7,4 @@
  * template in the editor.
  */
 
-<<<<<<< HEAD
-
-
-tree
-nb
->>>>>>> master
+source tree
