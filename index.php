@@ -7,6 +7,4 @@
  * template in the editor.
  */
 
-test
-
-test3
+test1
