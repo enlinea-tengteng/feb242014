@@ -7,6 +7,4 @@
  * template in the editor.
  */
 
-netbean..
-tree
-
+netbean
