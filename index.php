@@ -8,3 +8,4 @@
  */
 <<<<<<< HEAD
 test
+test2
